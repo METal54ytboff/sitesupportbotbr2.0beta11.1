@@ -1,0 +1,1 @@
+termesRecherche = monChampSearch.value;

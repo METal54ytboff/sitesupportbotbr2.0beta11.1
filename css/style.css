@@ -1,0 +1,43 @@
+nav.menu-nav ul li.btn {
+
+	display: inline-block;
+	list-style-type: none;
+
+}
+nav.menu-nav ul li.btn a{
+background-color: blue;
+text-decoration: none;
+padding: 10px;
+color: white;
+	
+}
+
+nav.menu-nav ul li.btn:hover a{
+	background-color: blue;
+color: blueviolet;
+}
+
+label {
+  display: block;
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
+}
+
+
+h1{
+	color: white;
+}
+p.metal54bot{
+	color: white;
+}
+
+body{
+	background: url(https://cdn.discordapp.com/attachments/1129413424938492107/1145475841728450730/BosCQc4.png);
+
+}
